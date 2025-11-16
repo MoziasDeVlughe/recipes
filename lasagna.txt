@@ -1,3 +1,4 @@
+INGERDIENTS:
 1 ui
 2 tenen knoflook
 2 eetlepels olie
@@ -14,7 +15,7 @@ Snuf peper en zout
 2 bollen mozzarella
 12 lasagnebladen
 handje geraspte kaas
-Bechamelsaus
+Bechamelsaus - INGREDIENTS:
 50 gr boter of margarine
 60 gr bloem
 600 ml melk
